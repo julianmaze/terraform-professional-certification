@@ -1,0 +1,4 @@
+%{ for name,server in dns ~}
+# ${name}
+nameserver ${server}
+%{ endfor }

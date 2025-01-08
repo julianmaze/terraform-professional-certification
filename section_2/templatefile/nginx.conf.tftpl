@@ -1,0 +1,9 @@
+server {
+  listen      ${nginx_port};
+  server_name ${server_name};
+
+
+  location / {
+      proxy_pass http://${backend_ip}:${backend_port};
+  }
+}
