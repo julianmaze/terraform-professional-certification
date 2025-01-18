@@ -1,0 +1,5 @@
+instance_type,AMI_ID,Region,Team_Name
+micro,ami-01816d07b1128cd2d,us-east-1,Security
+nano,ami-0fd05997b4dff7aac,ap-south-1,SRE
+nano,ami-01816d07b1128cd2d,us-east-1,DevOps
+micro,ami-0995922d49dc9a17d,ap-southeast-1,SRE

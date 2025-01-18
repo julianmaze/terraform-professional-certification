@@ -1,0 +1,9 @@
+name,direction,protocol,cidr_block,port
+rule-01,in,tcp,app,80
+rule-01,in,tcp,database,3306
+-,in,tcp,database,5432
+rule-01,in,tcp,anti-virus,8080
+-,in,tcp,monitoring,8081-8085
+rule-02,in,tcp,monitoring,443
+-,out,tcp,monitoring,0-65535
+-,out,tcp,database,3306-5432

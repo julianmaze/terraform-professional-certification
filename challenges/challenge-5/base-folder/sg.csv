@@ -1,0 +1,7 @@
+name,direction,protocol,cidr_block,description,port
+sg01,in,tcp,10.77.0.0/16,app-1,443
+sg02,out,tcp,0.0.0.0/0,app-2,9000
+sg01,in,tcp,0.0.0.0/0,app-1,80
+sg02,out,tcp,0.0.0.0/0,app-2,8443
+sg01,out,tcp,0.0.0.0/0,app-1,8443
+sg02,in,tcp,0.0.0.0/0,app-2,21
