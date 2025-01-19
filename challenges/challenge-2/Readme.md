@@ -1,3 +1,9 @@
+# Score
+Time: 46:39
+
+100% 
+- I crushed this one
+- The only thing I could potentially be marked down for is that I was "skipping" ahead during task 4, adding variable blocks before the step was done. 
 
 ## Challenge 2
 

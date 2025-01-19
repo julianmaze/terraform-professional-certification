@@ -1,0 +1,3 @@
+variable "sg_name" {
+
+}
