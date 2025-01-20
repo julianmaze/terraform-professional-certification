@@ -1,3 +1,11 @@
+# Score
+Time: 40:30
+100% This is good work - some small changes with how zeal did the review.
+  - No outputs of the creds from the base folder, he went straight to state
+  - He did not follow his own rule `The config file must only have two profiles `[asg]` and `[iam]`. No default or other profile should me mentioned.` He changed this to not including a profile in the credentials file as well. 
+    - He placed the access and secret key for the ro-user directly in the TF code w/ the assume role block and aliased the provider
+  - He set an implicit dependency on the IAM user policy attachment. I set an explicit dependency.
+
 
 ## Challenge 3
 
