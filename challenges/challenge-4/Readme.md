@@ -1,3 +1,6 @@
+# Score
+Time: ~26 mins (I fumbled the stopwatch)
+
 
 ## Challenge 4
 
