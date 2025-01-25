@@ -1,3 +1,7 @@
+Time: 1:29:37
+Score: 
+
+
 
 ## Challenge 5
 
