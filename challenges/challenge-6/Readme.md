@@ -1,3 +1,7 @@
+# Score
+Time: 18:57
+
+This one was easy
 
 ## Challenge 6
 
