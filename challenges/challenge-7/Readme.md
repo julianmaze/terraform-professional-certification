@@ -1,3 +1,7 @@
+# Score
+Time: 20:16
+
+
 ## Challenge 7
 
 This challenge tests your understanding of data types in Terraform and how to dynamically extract and process data from an external CSV file.
