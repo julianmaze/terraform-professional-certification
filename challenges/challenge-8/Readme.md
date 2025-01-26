@@ -1,3 +1,5 @@
+# Score
+Time: 33:24
 
 ## Challenge 8
 
